@@ -5,7 +5,7 @@ import Navbar from './Pages/Navbar';
 
 function App() {
   return (
-    <div className='relative'>
+    <div className='relative bg-slate-900'>
       <Navbar></Navbar>
       <Routes>
         <Route path='/' element={<Home></Home>} />
