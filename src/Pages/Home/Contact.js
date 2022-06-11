@@ -23,7 +23,7 @@ const Contact = () => {
                 <form>
                     <input type="email" placeholder='email' className='border w-96 pl-4 py-2'/><br />
                     <textarea name="" id="" rows="5" className='border w-96 my-6'></textarea><br />
-                    <button className='btn w-96 bg-slate-900 pl-4'>Send Message</button>
+                    <button className='btn w-96 bg-rose-500 border-0 pl-4'>Send Message</button>
                 </form>
             </div>       
         </div>
